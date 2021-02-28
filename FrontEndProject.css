@@ -7,7 +7,7 @@
   margin: 1px;
 }
 body{
-  background-color: black;
+  background-image: url("https://source.unsplash.com/random");
   opacity: 0.9;
   color: white;
 }
